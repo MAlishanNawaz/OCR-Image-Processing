@@ -1,5 +1,5 @@
 {
-  "image_path": "./image_ocr.PNG",
+  "image_path": "./testimages/image_ocr.PNG",
   "threshold": 1,
   "lines": [
     {
